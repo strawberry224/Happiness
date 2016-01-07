@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C6B299201C3EC52500F0D39A"
+               BlueprintIdentifier = "C6B2995A1C3EC84900F0D39A"
                BuildableName = "Happiness.app"
                BlueprintName = "Happiness"
                ReferencedContainer = "container:Happiness.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C6B299341C3EC52500F0D39A"
+               BlueprintIdentifier = "C6B2996E1C3EC84900F0D39A"
                BuildableName = "HappinessTests.xctest"
                BlueprintName = "HappinessTests"
                ReferencedContainer = "container:Happiness.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C6B2993F1C3EC52500F0D39A"
+               BlueprintIdentifier = "C6B299791C3EC84900F0D39A"
                BuildableName = "HappinessUITests.xctest"
                BlueprintName = "HappinessUITests"
                ReferencedContainer = "container:Happiness.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C6B299201C3EC52500F0D39A"
+            BlueprintIdentifier = "C6B2995A1C3EC84900F0D39A"
             BuildableName = "Happiness.app"
             BlueprintName = "Happiness"
             ReferencedContainer = "container:Happiness.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C6B299201C3EC52500F0D39A"
+            BlueprintIdentifier = "C6B2995A1C3EC84900F0D39A"
             BuildableName = "Happiness.app"
             BlueprintName = "Happiness"
             ReferencedContainer = "container:Happiness.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C6B299201C3EC52500F0D39A"
+            BlueprintIdentifier = "C6B2995A1C3EC84900F0D39A"
             BuildableName = "Happiness.app"
             BlueprintName = "Happiness"
             ReferencedContainer = "container:Happiness.xcodeproj">

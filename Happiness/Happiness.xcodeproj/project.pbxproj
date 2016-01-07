@@ -7,64 +7,64 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C6B299251C3EC52500F0D39A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6B299241C3EC52500F0D39A /* AppDelegate.swift */; };
-		C6B299271C3EC52500F0D39A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6B299261C3EC52500F0D39A /* ViewController.swift */; };
-		C6B2992A1C3EC52500F0D39A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6B299281C3EC52500F0D39A /* Main.storyboard */; };
-		C6B2992C1C3EC52500F0D39A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6B2992B1C3EC52500F0D39A /* Assets.xcassets */; };
-		C6B2992F1C3EC52500F0D39A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6B2992D1C3EC52500F0D39A /* LaunchScreen.storyboard */; };
-		C6B2993A1C3EC52500F0D39A /* HappinessTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6B299391C3EC52500F0D39A /* HappinessTests.swift */; };
-		C6B299451C3EC52500F0D39A /* HappinessUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6B299441C3EC52500F0D39A /* HappinessUITests.swift */; };
+		C6B2995F1C3EC84900F0D39A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6B2995E1C3EC84900F0D39A /* AppDelegate.swift */; };
+		C6B299611C3EC84900F0D39A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6B299601C3EC84900F0D39A /* ViewController.swift */; };
+		C6B299641C3EC84900F0D39A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6B299621C3EC84900F0D39A /* Main.storyboard */; };
+		C6B299661C3EC84900F0D39A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6B299651C3EC84900F0D39A /* Assets.xcassets */; };
+		C6B299691C3EC84900F0D39A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6B299671C3EC84900F0D39A /* LaunchScreen.storyboard */; };
+		C6B299741C3EC84900F0D39A /* HappinessTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6B299731C3EC84900F0D39A /* HappinessTests.swift */; };
+		C6B2997F1C3EC84900F0D39A /* HappinessUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6B2997E1C3EC84900F0D39A /* HappinessUITests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		C6B299361C3EC52500F0D39A /* PBXContainerItemProxy */ = {
+		C6B299701C3EC84900F0D39A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = C6B299191C3EC52500F0D39A /* Project object */;
+			containerPortal = C6B299531C3EC84900F0D39A /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = C6B299201C3EC52500F0D39A;
+			remoteGlobalIDString = C6B2995A1C3EC84900F0D39A;
 			remoteInfo = Happiness;
 		};
-		C6B299411C3EC52500F0D39A /* PBXContainerItemProxy */ = {
+		C6B2997B1C3EC84900F0D39A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = C6B299191C3EC52500F0D39A /* Project object */;
+			containerPortal = C6B299531C3EC84900F0D39A /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = C6B299201C3EC52500F0D39A;
+			remoteGlobalIDString = C6B2995A1C3EC84900F0D39A;
 			remoteInfo = Happiness;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		C6B299211C3EC52500F0D39A /* Happiness.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Happiness.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		C6B299241C3EC52500F0D39A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		C6B299261C3EC52500F0D39A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		C6B299291C3EC52500F0D39A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		C6B2992B1C3EC52500F0D39A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		C6B2992E1C3EC52500F0D39A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		C6B299301C3EC52500F0D39A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C6B299351C3EC52500F0D39A /* HappinessTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HappinessTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		C6B299391C3EC52500F0D39A /* HappinessTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HappinessTests.swift; sourceTree = "<group>"; };
-		C6B2993B1C3EC52500F0D39A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C6B299401C3EC52500F0D39A /* HappinessUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HappinessUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		C6B299441C3EC52500F0D39A /* HappinessUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HappinessUITests.swift; sourceTree = "<group>"; };
-		C6B299461C3EC52500F0D39A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C6B2995B1C3EC84900F0D39A /* Happiness.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Happiness.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C6B2995E1C3EC84900F0D39A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		C6B299601C3EC84900F0D39A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		C6B299631C3EC84900F0D39A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C6B299651C3EC84900F0D39A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C6B299681C3EC84900F0D39A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C6B2996A1C3EC84900F0D39A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C6B2996F1C3EC84900F0D39A /* HappinessTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HappinessTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C6B299731C3EC84900F0D39A /* HappinessTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HappinessTests.swift; sourceTree = "<group>"; };
+		C6B299751C3EC84900F0D39A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C6B2997A1C3EC84900F0D39A /* HappinessUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HappinessUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C6B2997E1C3EC84900F0D39A /* HappinessUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HappinessUITests.swift; sourceTree = "<group>"; };
+		C6B299801C3EC84900F0D39A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		C6B2991E1C3EC52500F0D39A /* Frameworks */ = {
+		C6B299581C3EC84900F0D39A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C6B299321C3EC52500F0D39A /* Frameworks */ = {
+		C6B2996C1C3EC84900F0D39A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C6B2993D1C3EC52500F0D39A /* Frameworks */ = {
+		C6B299771C3EC84900F0D39A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -74,53 +74,53 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		C6B299181C3EC52500F0D39A = {
+		C6B299521C3EC84900F0D39A = {
 			isa = PBXGroup;
 			children = (
-				C6B299231C3EC52500F0D39A /* Happiness */,
-				C6B299381C3EC52500F0D39A /* HappinessTests */,
-				C6B299431C3EC52500F0D39A /* HappinessUITests */,
-				C6B299221C3EC52500F0D39A /* Products */,
+				C6B2995D1C3EC84900F0D39A /* Happiness */,
+				C6B299721C3EC84900F0D39A /* HappinessTests */,
+				C6B2997D1C3EC84900F0D39A /* HappinessUITests */,
+				C6B2995C1C3EC84900F0D39A /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		C6B299221C3EC52500F0D39A /* Products */ = {
+		C6B2995C1C3EC84900F0D39A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C6B299211C3EC52500F0D39A /* Happiness.app */,
-				C6B299351C3EC52500F0D39A /* HappinessTests.xctest */,
-				C6B299401C3EC52500F0D39A /* HappinessUITests.xctest */,
+				C6B2995B1C3EC84900F0D39A /* Happiness.app */,
+				C6B2996F1C3EC84900F0D39A /* HappinessTests.xctest */,
+				C6B2997A1C3EC84900F0D39A /* HappinessUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		C6B299231C3EC52500F0D39A /* Happiness */ = {
+		C6B2995D1C3EC84900F0D39A /* Happiness */ = {
 			isa = PBXGroup;
 			children = (
-				C6B299241C3EC52500F0D39A /* AppDelegate.swift */,
-				C6B299261C3EC52500F0D39A /* ViewController.swift */,
-				C6B299281C3EC52500F0D39A /* Main.storyboard */,
-				C6B2992B1C3EC52500F0D39A /* Assets.xcassets */,
-				C6B2992D1C3EC52500F0D39A /* LaunchScreen.storyboard */,
-				C6B299301C3EC52500F0D39A /* Info.plist */,
+				C6B2995E1C3EC84900F0D39A /* AppDelegate.swift */,
+				C6B299601C3EC84900F0D39A /* ViewController.swift */,
+				C6B299621C3EC84900F0D39A /* Main.storyboard */,
+				C6B299651C3EC84900F0D39A /* Assets.xcassets */,
+				C6B299671C3EC84900F0D39A /* LaunchScreen.storyboard */,
+				C6B2996A1C3EC84900F0D39A /* Info.plist */,
 			);
 			path = Happiness;
 			sourceTree = "<group>";
 		};
-		C6B299381C3EC52500F0D39A /* HappinessTests */ = {
+		C6B299721C3EC84900F0D39A /* HappinessTests */ = {
 			isa = PBXGroup;
 			children = (
-				C6B299391C3EC52500F0D39A /* HappinessTests.swift */,
-				C6B2993B1C3EC52500F0D39A /* Info.plist */,
+				C6B299731C3EC84900F0D39A /* HappinessTests.swift */,
+				C6B299751C3EC84900F0D39A /* Info.plist */,
 			);
 			path = HappinessTests;
 			sourceTree = "<group>";
 		};
-		C6B299431C3EC52500F0D39A /* HappinessUITests */ = {
+		C6B2997D1C3EC84900F0D39A /* HappinessUITests */ = {
 			isa = PBXGroup;
 			children = (
-				C6B299441C3EC52500F0D39A /* HappinessUITests.swift */,
-				C6B299461C3EC52500F0D39A /* Info.plist */,
+				C6B2997E1C3EC84900F0D39A /* HappinessUITests.swift */,
+				C6B299801C3EC84900F0D39A /* Info.plist */,
 			);
 			path = HappinessUITests;
 			sourceTree = "<group>";
@@ -128,13 +128,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C6B299201C3EC52500F0D39A /* Happiness */ = {
+		C6B2995A1C3EC84900F0D39A /* Happiness */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C6B299491C3EC52500F0D39A /* Build configuration list for PBXNativeTarget "Happiness" */;
+			buildConfigurationList = C6B299831C3EC84900F0D39A /* Build configuration list for PBXNativeTarget "Happiness" */;
 			buildPhases = (
-				C6B2991D1C3EC52500F0D39A /* Sources */,
-				C6B2991E1C3EC52500F0D39A /* Frameworks */,
-				C6B2991F1C3EC52500F0D39A /* Resources */,
+				C6B299571C3EC84900F0D39A /* Sources */,
+				C6B299581C3EC84900F0D39A /* Frameworks */,
+				C6B299591C3EC84900F0D39A /* Resources */,
 			);
 			buildRules = (
 			);
@@ -142,72 +142,72 @@
 			);
 			name = Happiness;
 			productName = Happiness;
-			productReference = C6B299211C3EC52500F0D39A /* Happiness.app */;
+			productReference = C6B2995B1C3EC84900F0D39A /* Happiness.app */;
 			productType = "com.apple.product-type.application";
 		};
-		C6B299341C3EC52500F0D39A /* HappinessTests */ = {
+		C6B2996E1C3EC84900F0D39A /* HappinessTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C6B2994C1C3EC52500F0D39A /* Build configuration list for PBXNativeTarget "HappinessTests" */;
+			buildConfigurationList = C6B299861C3EC84900F0D39A /* Build configuration list for PBXNativeTarget "HappinessTests" */;
 			buildPhases = (
-				C6B299311C3EC52500F0D39A /* Sources */,
-				C6B299321C3EC52500F0D39A /* Frameworks */,
-				C6B299331C3EC52500F0D39A /* Resources */,
+				C6B2996B1C3EC84900F0D39A /* Sources */,
+				C6B2996C1C3EC84900F0D39A /* Frameworks */,
+				C6B2996D1C3EC84900F0D39A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				C6B299371C3EC52500F0D39A /* PBXTargetDependency */,
+				C6B299711C3EC84900F0D39A /* PBXTargetDependency */,
 			);
 			name = HappinessTests;
 			productName = HappinessTests;
-			productReference = C6B299351C3EC52500F0D39A /* HappinessTests.xctest */;
+			productReference = C6B2996F1C3EC84900F0D39A /* HappinessTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		C6B2993F1C3EC52500F0D39A /* HappinessUITests */ = {
+		C6B299791C3EC84900F0D39A /* HappinessUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C6B2994F1C3EC52500F0D39A /* Build configuration list for PBXNativeTarget "HappinessUITests" */;
+			buildConfigurationList = C6B299891C3EC84900F0D39A /* Build configuration list for PBXNativeTarget "HappinessUITests" */;
 			buildPhases = (
-				C6B2993C1C3EC52500F0D39A /* Sources */,
-				C6B2993D1C3EC52500F0D39A /* Frameworks */,
-				C6B2993E1C3EC52500F0D39A /* Resources */,
+				C6B299761C3EC84900F0D39A /* Sources */,
+				C6B299771C3EC84900F0D39A /* Frameworks */,
+				C6B299781C3EC84900F0D39A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				C6B299421C3EC52500F0D39A /* PBXTargetDependency */,
+				C6B2997C1C3EC84900F0D39A /* PBXTargetDependency */,
 			);
 			name = HappinessUITests;
 			productName = HappinessUITests;
-			productReference = C6B299401C3EC52500F0D39A /* HappinessUITests.xctest */;
+			productReference = C6B2997A1C3EC84900F0D39A /* HappinessUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		C6B299191C3EC52500F0D39A /* Project object */ = {
+		C6B299531C3EC84900F0D39A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0720;
-				ORGANIZATIONNAME = "Shen Lijia";
+				ORGANIZATIONNAME = strawberry224;
 				TargetAttributes = {
-					C6B299201C3EC52500F0D39A = {
+					C6B2995A1C3EC84900F0D39A = {
 						CreatedOnToolsVersion = 7.2;
 						DevelopmentTeam = U24LJ82NMQ;
 					};
-					C6B299341C3EC52500F0D39A = {
+					C6B2996E1C3EC84900F0D39A = {
 						CreatedOnToolsVersion = 7.2;
 						DevelopmentTeam = U24LJ82NMQ;
-						TestTargetID = C6B299201C3EC52500F0D39A;
+						TestTargetID = C6B2995A1C3EC84900F0D39A;
 					};
-					C6B2993F1C3EC52500F0D39A = {
+					C6B299791C3EC84900F0D39A = {
 						CreatedOnToolsVersion = 7.2;
 						DevelopmentTeam = U24LJ82NMQ;
-						TestTargetID = C6B299201C3EC52500F0D39A;
+						TestTargetID = C6B2995A1C3EC84900F0D39A;
 					};
 				};
 			};
-			buildConfigurationList = C6B2991C1C3EC52500F0D39A /* Build configuration list for PBXProject "Happiness" */;
+			buildConfigurationList = C6B299561C3EC84900F0D39A /* Build configuration list for PBXProject "Happiness" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -215,37 +215,37 @@
 				en,
 				Base,
 			);
-			mainGroup = C6B299181C3EC52500F0D39A;
-			productRefGroup = C6B299221C3EC52500F0D39A /* Products */;
+			mainGroup = C6B299521C3EC84900F0D39A;
+			productRefGroup = C6B2995C1C3EC84900F0D39A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C6B299201C3EC52500F0D39A /* Happiness */,
-				C6B299341C3EC52500F0D39A /* HappinessTests */,
-				C6B2993F1C3EC52500F0D39A /* HappinessUITests */,
+				C6B2995A1C3EC84900F0D39A /* Happiness */,
+				C6B2996E1C3EC84900F0D39A /* HappinessTests */,
+				C6B299791C3EC84900F0D39A /* HappinessUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		C6B2991F1C3EC52500F0D39A /* Resources */ = {
+		C6B299591C3EC84900F0D39A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C6B2992F1C3EC52500F0D39A /* LaunchScreen.storyboard in Resources */,
-				C6B2992C1C3EC52500F0D39A /* Assets.xcassets in Resources */,
-				C6B2992A1C3EC52500F0D39A /* Main.storyboard in Resources */,
+				C6B299691C3EC84900F0D39A /* LaunchScreen.storyboard in Resources */,
+				C6B299661C3EC84900F0D39A /* Assets.xcassets in Resources */,
+				C6B299641C3EC84900F0D39A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C6B299331C3EC52500F0D39A /* Resources */ = {
+		C6B2996D1C3EC84900F0D39A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C6B2993E1C3EC52500F0D39A /* Resources */ = {
+		C6B299781C3EC84900F0D39A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -255,59 +255,59 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		C6B2991D1C3EC52500F0D39A /* Sources */ = {
+		C6B299571C3EC84900F0D39A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C6B299271C3EC52500F0D39A /* ViewController.swift in Sources */,
-				C6B299251C3EC52500F0D39A /* AppDelegate.swift in Sources */,
+				C6B299611C3EC84900F0D39A /* ViewController.swift in Sources */,
+				C6B2995F1C3EC84900F0D39A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C6B299311C3EC52500F0D39A /* Sources */ = {
+		C6B2996B1C3EC84900F0D39A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C6B2993A1C3EC52500F0D39A /* HappinessTests.swift in Sources */,
+				C6B299741C3EC84900F0D39A /* HappinessTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C6B2993C1C3EC52500F0D39A /* Sources */ = {
+		C6B299761C3EC84900F0D39A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C6B299451C3EC52500F0D39A /* HappinessUITests.swift in Sources */,
+				C6B2997F1C3EC84900F0D39A /* HappinessUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		C6B299371C3EC52500F0D39A /* PBXTargetDependency */ = {
+		C6B299711C3EC84900F0D39A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = C6B299201C3EC52500F0D39A /* Happiness */;
-			targetProxy = C6B299361C3EC52500F0D39A /* PBXContainerItemProxy */;
+			target = C6B2995A1C3EC84900F0D39A /* Happiness */;
+			targetProxy = C6B299701C3EC84900F0D39A /* PBXContainerItemProxy */;
 		};
-		C6B299421C3EC52500F0D39A /* PBXTargetDependency */ = {
+		C6B2997C1C3EC84900F0D39A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = C6B299201C3EC52500F0D39A /* Happiness */;
-			targetProxy = C6B299411C3EC52500F0D39A /* PBXContainerItemProxy */;
+			target = C6B2995A1C3EC84900F0D39A /* Happiness */;
+			targetProxy = C6B2997B1C3EC84900F0D39A /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		C6B299281C3EC52500F0D39A /* Main.storyboard */ = {
+		C6B299621C3EC84900F0D39A /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				C6B299291C3EC52500F0D39A /* Base */,
+				C6B299631C3EC84900F0D39A /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		C6B2992D1C3EC52500F0D39A /* LaunchScreen.storyboard */ = {
+		C6B299671C3EC84900F0D39A /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				C6B2992E1C3EC52500F0D39A /* Base */,
+				C6B299681C3EC84900F0D39A /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -315,7 +315,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		C6B299471C3EC52500F0D39A /* Debug */ = {
+		C6B299811C3EC84900F0D39A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -360,7 +360,7 @@
 			};
 			name = Debug;
 		};
-		C6B299481C3EC52500F0D39A /* Release */ = {
+		C6B299821C3EC84900F0D39A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -398,70 +398,70 @@
 			};
 			name = Release;
 		};
-		C6B2994A1C3EC52500F0D39A /* Debug */ = {
+		C6B299841C3EC84900F0D39A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Happiness/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = shenlijia.personal.Happiness;
+				PRODUCT_BUNDLE_IDENTIFIER = strawberry224.Happiness;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		C6B2994B1C3EC52500F0D39A /* Release */ = {
+		C6B299851C3EC84900F0D39A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Happiness/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = shenlijia.personal.Happiness;
+				PRODUCT_BUNDLE_IDENTIFIER = strawberry224.Happiness;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
 		};
-		C6B2994D1C3EC52500F0D39A /* Debug */ = {
+		C6B299871C3EC84900F0D39A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = HappinessTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = shenlijia.personal.HappinessTests;
+				PRODUCT_BUNDLE_IDENTIFIER = strawberry224.HappinessTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Happiness.app/Happiness";
 			};
 			name = Debug;
 		};
-		C6B2994E1C3EC52500F0D39A /* Release */ = {
+		C6B299881C3EC84900F0D39A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = HappinessTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = shenlijia.personal.HappinessTests;
+				PRODUCT_BUNDLE_IDENTIFIER = strawberry224.HappinessTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Happiness.app/Happiness";
 			};
 			name = Release;
 		};
-		C6B299501C3EC52500F0D39A /* Debug */ = {
+		C6B2998A1C3EC84900F0D39A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				INFOPLIST_FILE = HappinessUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = shenlijia.personal.HappinessUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = strawberry224.HappinessUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = Happiness;
 				USES_XCTRUNNER = YES;
 			};
 			name = Debug;
 		};
-		C6B299511C3EC52500F0D39A /* Release */ = {
+		C6B2998B1C3EC84900F0D39A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				INFOPLIST_FILE = HappinessUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = shenlijia.personal.HappinessUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = strawberry224.HappinessUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = Happiness;
 				USES_XCTRUNNER = YES;
@@ -471,40 +471,40 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C6B2991C1C3EC52500F0D39A /* Build configuration list for PBXProject "Happiness" */ = {
+		C6B299561C3EC84900F0D39A /* Build configuration list for PBXProject "Happiness" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C6B299471C3EC52500F0D39A /* Debug */,
-				C6B299481C3EC52500F0D39A /* Release */,
+				C6B299811C3EC84900F0D39A /* Debug */,
+				C6B299821C3EC84900F0D39A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C6B299491C3EC52500F0D39A /* Build configuration list for PBXNativeTarget "Happiness" */ = {
+		C6B299831C3EC84900F0D39A /* Build configuration list for PBXNativeTarget "Happiness" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C6B2994A1C3EC52500F0D39A /* Debug */,
-				C6B2994B1C3EC52500F0D39A /* Release */,
+				C6B299841C3EC84900F0D39A /* Debug */,
+				C6B299851C3EC84900F0D39A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		C6B2994C1C3EC52500F0D39A /* Build configuration list for PBXNativeTarget "HappinessTests" */ = {
+		C6B299861C3EC84900F0D39A /* Build configuration list for PBXNativeTarget "HappinessTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C6B2994D1C3EC52500F0D39A /* Debug */,
-				C6B2994E1C3EC52500F0D39A /* Release */,
+				C6B299871C3EC84900F0D39A /* Debug */,
+				C6B299881C3EC84900F0D39A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		C6B2994F1C3EC52500F0D39A /* Build configuration list for PBXNativeTarget "HappinessUITests" */ = {
+		C6B299891C3EC84900F0D39A /* Build configuration list for PBXNativeTarget "HappinessUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C6B299501C3EC52500F0D39A /* Debug */,
-				C6B299511C3EC52500F0D39A /* Release */,
+				C6B2998A1C3EC84900F0D39A /* Debug */,
+				C6B2998B1C3EC84900F0D39A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = C6B299191C3EC52500F0D39A /* Project object */;
+	rootObject = C6B299531C3EC84900F0D39A /* Project object */;
 }
